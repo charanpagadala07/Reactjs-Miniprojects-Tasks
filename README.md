@@ -16,4 +16,5 @@ bun-v
 
 ## 1. Calculator
   **Calculator** is implemented using only the useState hook for managing state and the onChange event for handling input. It performs basic arithmetic operations and serves as a fundamental introduction to React state management and event handling.
+#### **Run the command `bun run dev` to run** 
   

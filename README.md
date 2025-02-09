@@ -14,7 +14,20 @@ bun --version
 bun-v
 ```
 
+
+
 ## 1. Calculator
   **Calculator** is implemented using only the useState hook for managing state and the onChange event for handling input. It performs basic arithmetic operations and serves as a fundamental introduction to React state management and event handling.
 #### **Run the command `bun run dev` to run** 
+
+## 2. Boardify - A Smart Kanban-Style Task Manager with Timer
+  **Boardify** is a dynamic and intuitive **Kanban-style** task management app that helps users streamline their workflow by seamlessly combining a to-do list with a built-in timer. Designed for simplicity and efficiency, it allows users to add, edit, and track tasks while monitoring the time spent on each one.
+### Key Features:
+#### ✅ Task Management: Add, edit, and delete tasks effortlessly.
+#### ✅ Drag & Drop Functionality: Move tasks between sections smoothly.
+#### ✅ Built-in Timer: Track time spent on each task with start, stop, and reset controls.
+#### ✅ State Management: Uses useState for dynamic updates and useEffect for handling side effects.
+#### ✅ Local Storage Integration: Saves tasks persistently for continued tracking.
+#### ✅ Tailwind CSS Styling: Ensures a sleek, modern, and responsive UI.
+
   
